@@ -5,7 +5,7 @@
 and then to Cross-Platform consoles like Xbox & PlayStation.
 
 
-- 📫 How to reach Us ... - https://totheascend.io/
+- 📫 How to reach Us ... - https://tiggytech.com/to-the-ascend.com/
                         -ToTheASCEND@gmail.com
 <!---
 T-T-ASCEND/TTA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
